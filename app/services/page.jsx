@@ -14,19 +14,19 @@ const services = [
   {
     num: '02',
     title: 'Logo Design',
-    description: 'Keen eyes for designs and attention to details with good user',
+    description: 'Memorable logo designs that make your brand stand out always',
     href: "" 
   },
   {
     num: '03',
     title: 'Data Analysis',
-    description: 'Keen eyes for designs and attention to details with good user',
+    description: 'Analyzing data to uncover insights and drive growth',
     href: "" 
   },
   {
     num: '04',
     title: 'UI/UX',
-    description: 'Keen eyes for designs and attention to details with good user',
+    description: 'User-focused designs that are simple, clean and easy to use',
     href: "" 
   },
 ]
